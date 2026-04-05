@@ -1,4 +1,4 @@
-#Sales & Demand Forecasting System
+# Sales & Demand Forecasting System
 
 A comprehensive machine learning solution for forecasting future sales using the Superstore Sales Dataset. This project demonstrates real-world business applications of time-series forecasting and provides actionable insights for inventory planning, cash flow management, and business decision-making.
 
